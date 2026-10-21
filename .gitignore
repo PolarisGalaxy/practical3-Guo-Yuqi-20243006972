@@ -1,0 +1,8 @@
+.gradle
+build
+local.properties
+*.iml
+gradle.properties
+gradle-wrapper.properties
+app/build
+*.class
